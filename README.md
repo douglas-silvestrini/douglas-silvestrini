@@ -1,16 +1,27 @@
-### Hi there 👋
+## Sobre mim
 
-<!--
-**douglas-silvestrini/douglas-silvestrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções web.
+- 💼 Trabalhando como programador web fullstack.
+- 🌱 Aprendendo mais sobre React Native, C#, NodeJS.
 
-Here are some ideas to get you started:
+## Meus conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,alpinejs,react,vite,npm)]()
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,cs)](https://skillicons.dev)
+
+**Bancos de dados**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite)](https://skillicons.dev)
+
+**Utilidades**
+
+[![My Skills](https://skillicons.dev/icons?i=postman,vscode,sublime,figma)](https://skillicons.dev)
+
+**DevOps**
+
+[![My Skills](https://skillicons.dev/icons?i=git,linux,ubuntu,bash,windows)](https://skillicons.dev)
