@@ -13,7 +13,7 @@
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,c++,dart)]()
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,cpp,cs,dart)]()
 
 **Mobile**
 
