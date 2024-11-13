@@ -2,7 +2,7 @@
 
 - 💼 Programador Web FullStack - PHP/Laravel.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções web.
-- 🌱 Aprendendo mais sobre React Native, Flutter e NodeJS.
+- 🌱 Aprendendo mais sobre React Native, Flutter, NodeJS, C# e C++.
 
 ## Meus conhecimentos
 
