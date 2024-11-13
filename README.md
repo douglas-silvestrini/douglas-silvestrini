@@ -13,8 +13,7 @@
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express)]()
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=filament)]()
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,c++,dart)]()
 
 **Mobile**
 
