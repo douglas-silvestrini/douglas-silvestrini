@@ -2,7 +2,7 @@
 
 - 💼 Programador Web FullStack - PHP/Laravel.
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções web.
-- 🌱 Aprendendo mais sobre React Native, Flutter, NodeJS, C# e C++.
+- 🌱 Aprendendo mais sobre Flutter, JavaFX e Python.
 
 ## Meus conhecimentos
 
@@ -13,11 +13,11 @@
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,cpp,cs,dart)]()
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,express,cpp,cs,dart,python,java)]()
 
 **Mobile**
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,flutter)]()
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=flutter)]()
 
 **Bancos de dados**
 
